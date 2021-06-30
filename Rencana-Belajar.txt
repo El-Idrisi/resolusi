@@ -2,9 +2,11 @@ Rencana Belajar
 
 -FrameWork PHP
  ^Laravel
+ ^Codeingeter
 -FrameWork JavaScript
  ^Vue
  ^React
+ ^angular
 -Belajar C++
   *OOP
 -Belajar Java
